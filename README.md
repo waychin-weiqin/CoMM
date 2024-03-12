@@ -9,9 +9,10 @@ This is the official code of the work **Enhanced Online Test-time Adaptation wit
 * PyTorch 1.9.0
 
 ## :package: Dataset
-* CIFAR-10/100
-* CIFAR-10/100 (Corrupted)
-* ImageNet-Corrupted
+Download datasets from [here](https://github.com/hendrycks/robustness) or using the links below:
+* [CIFAR-10-Corrupted](https://zenodo.org/record/2535967)
+* [CIFAR-100-Corrupted](https://zenodo.org/record/3555552)
+* [ImageNet-Corrupted](https://zenodo.org/record/2235448)
 
 ## :clock4: Training
 Run `bash script/<dataset>.sh` for training.
