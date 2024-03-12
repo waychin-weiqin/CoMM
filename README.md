@@ -1,7 +1,6 @@
 # CoMM
 
-This is the official code of the work **Enhanced Online Test-time Adaptation with Feature-Weight Cosine Alignment (2024)**, \
-**WeiQin Chuah**, Ruwan Tennakoon, Ali Bab-Hadiashar. 
+This is the official code of the work **Enhanced Online Test-time Adaptation with Feature-Weight Cosine Alignment (2024)**
 
 # How to use:
 ## Environment setup
